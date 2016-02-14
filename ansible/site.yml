@@ -7,4 +7,4 @@
   roles:
     - mysql
     - ssmtp
-    - apache
+    - nginx-php-fpm
